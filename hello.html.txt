@@ -1,6 +1,0 @@
-<!DOCTYPE>
-<HEAD>
-</HEAD>
-<BODY>
-<p>hello world!</p>
-</BODY>
